@@ -113,7 +113,7 @@ See the [VWorks Knowledge Base][device-file] for more information on how to sele
 
 ## Protocol ##
 
-To be added.
+See the NGI Stockholm/SciLifeLab [Standard Operating Procedure][sop] (work in progress).
 
 ## License ##
 > Licensed under the Apache License, Version 2.0 (the "License");
@@ -143,7 +143,7 @@ Automation protocols made available by NGI Sweden at https://github.com/ngi-auto
 [zip]: https://github.com/ngi-automation/rna-access/archive/master.zip
 [import]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/11_Troubleshooting.15.03.html#2005458
 [catalog]: http://www.chem.agilent.com/Library/catalogs/Public/5991-0369EN.pdf
-[sop]: about:blank
+[sop]: https://goo.gl/wlRVMg
 [device-file]: http://www.velocity11.com/techdocs/AutomationSolutionsKB/vworks4_ug/02_CreateProtocolBasic.04.08.html#1981042
 
 ---
